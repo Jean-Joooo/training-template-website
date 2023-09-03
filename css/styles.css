@@ -118,7 +118,7 @@ body {
 #map-tile {
   height: 380px;
   width: 100%;
-  margin-bottom: 15px;
+  margin-bottom: 2px;
   position: relative;
   border: 2px solid #04caf7;
   overflow: hidden;
