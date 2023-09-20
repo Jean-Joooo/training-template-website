@@ -59,11 +59,6 @@ body {
   text-align: right;
   padding-bottom: 0;
 }
-#phone div { /* We Deliver */
-  color: #080808;
-  text-align: right;
-  padding-right: 15px;
-}
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid #00b3fa;
