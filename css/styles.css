@@ -11,6 +11,7 @@ body {
   border-radius: 0;
   border: 0;
   position: fixed;
+  width: full;
 
 
 #logo-img {
@@ -164,6 +165,7 @@ body {
   .container .jumbotron {
     background: url('../images/jumbotron_1200.jpg') no-repeat;
     height: 675px;
+    margin-top: 100px;
   }
 }
 
@@ -174,7 +176,7 @@ body {
     background: url('../images/dm-logo_medium.jpg') no-repeat;
     width: 100px;
     height: 100px;
-    margin: 5px 5px 5px 0;
+    margin: 100px 5px 5px 0;
   }
   /* End Header */
 
@@ -182,6 +184,7 @@ body {
   .container .jumbotron {
     background: url('../images/jumbotron_992.jpg') no-repeat;
     height: 558px;
+    margin-top: 100px;
   }
   /* End Home Page */
 }
@@ -192,6 +195,7 @@ body {
   .container .jumbotron {
     background: url('../images/jumbotron_768.jpg') no-repeat;
     height: 432px;
+    margin-top: 100px;
   }
   /* End Home Page */
 }
@@ -226,7 +230,7 @@ body {
   #call-btn > a {
     font-size: 1.5em;
     display: block;
-    margin: 0 20px;
+    margin: 50px 20px;
     padding: 10px;
     border: 2px solid #03c8f9;
     background-color: #03c8f9;
