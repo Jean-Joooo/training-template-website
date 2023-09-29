@@ -16,7 +16,7 @@ body {
   background: url('../images/dm-logo_large.jpg') no-repeat;
   width: 150px;
   height: 150px;
-  margin: 10px 15px 10px 0;
+  margin: 5px 5px 5px 0;
 }
 
 .navbar-brand {
@@ -31,6 +31,7 @@ body {
   text-shadow: 1px 1px 1px #222;
   margin-top: 0;
   margin-bottom: 0;
+  width: full;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
